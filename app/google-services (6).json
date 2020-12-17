@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "799690558843",
+    "firebase_url": "https://fir-tats.firebaseio.com",
+    "project_id": "fir-tats",
+    "storage_bucket": "fir-tats.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799690558843:android:4a4872c7d91fd7d37881de",
+        "android_client_info": {
+          "package_name": "com.example.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799690558843-ohij4ien73ifdejgji6qd7oo983ai3g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG-auOqQkPQnJPOjYhmp8F4_1HzKk2SSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799690558843-ohij4ien73ifdejgji6qd7oo983ai3g4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
